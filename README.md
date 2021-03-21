@@ -1,7 +1,6 @@
 ### Live app
 https://facebook-clone-22a5b.web.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
